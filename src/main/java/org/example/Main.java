@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Welcome to Java!");
         System.out.println("Welcome to Java!");
         System.out.println("Ha ha new version of Java!"); /////223232
+        System.out.println("Hfdfdfdfdfdfdfdf new version of Java!");
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
